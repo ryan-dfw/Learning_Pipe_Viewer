@@ -3,6 +3,13 @@ name = "pipeviewer"
 version = "0.1.0"
 authors = ["Ryan McKevitt <mckevitt.r@gmail.com>"]
 edition = "2021"
+description = "just following along w/ a udemy tutorial, don't mind me"
+homepage = "null"
+repository = "null"
+readme = "README.md"
+keywords = ["educational"]
+categories = ["command-line-utilities"]
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
